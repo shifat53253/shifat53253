@@ -8,10 +8,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+MERN+stack+developer..!+;.)](https://git.io/typing-svg) <h4 align="left">skilled in React, Node.js, Firebase, and MongoDB. I specialize in creating modern, responsive, and user-friendly web applications. Constantly learning and improving, I love collaborating on innovative projects that solve real-world problems. Let's build something amazing together!</h4>
 
 
-- 🔭 &nbsp; I’m currently working on **Restuarent Website  [Online Resume Builder](https://online-resume-builder-omega.vercel.app)**
-- 🌱 &nbsp; I’m currently learning Next js and TypeScript; 
+- 🔭 &nbsp; I’m currently working on 
+- 🌱 &nbsp; I’m currently learning React js; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📚 &nbsp; When I am free, I enjoy playing Cricket and traveling.
+- 📚 &nbsp; When I am free, I enjoy playing Footbol and traveling.
 ###
 
 
@@ -41,19 +41,16 @@
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <div align="left">
- <a href="https://www.linkedin.com/in/majidul-islam7/" target="_blank">
+ <a href="https://www.linkedin.com/in/shariful8523/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
-  <a href="https://discord.com/channels/1323883740744646758/1323883740744646761" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/majidul1230" target="_blank">
+  <a href="https://www.facebook.com/Sharifulislam852233" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=majidul123tub@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdsharifulislam8523@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/8801746637704" target="_blank">
+  <a href="https://wa.me/8801307376982" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
