@@ -1,10 +1,10 @@
 
 
 
-<img src="https://i.ibb.co.com/K0YtPqD/Screenshot-2024-12-15-192404.png" />
+[![LinkedIn Banner](https://i.ibb.co/VczmXMq4/Llinkding-cover.jpg)](https://www.linkedin.com/in/shariful8523/)
 
 ###  <div>  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **About Me**</div>
-### **Hi, My name is Md Majidul Islam** 
+### **Hi, My name is Md Shariful Islam** 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+MERN+stack+developer..!+;.)](https://git.io/typing-svg) <h4 align="left">skilled in React, Node.js, Firebase, and MongoDB. I specialize in creating modern, responsive, and user-friendly web applications. Constantly learning and improving, I love collaborating on innovative projects that solve real-world problems. Let's build something amazing together!</h4>
 
 
@@ -64,16 +64,16 @@
  <br/>
  
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pro-majidul&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shariful8523&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br>
   <br>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-majidul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shariful8523&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
    
 <br>
 <br>
 
- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pro-majidul&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shariful8523&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
  
 
